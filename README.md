@@ -69,7 +69,11 @@ npm run dev   # for Vite
 ---
 
 ## 📸 Screenshots  
-(Add some screenshots of your app here later)  
+<img width="1903" height="897" alt="Screenshot 2025-08-24 153333" src="https://github.com/user-attachments/assets/a86e47c9-25cd-4c5e-9cd6-a01226922691" />
+<img width="1887" height="880" alt="Screenshot 2025-08-24 153503" src="https://github.com/user-attachments/assets/d1ead9dc-ae23-4db3-a29b-7007280e08b8" />
+<img width="1892" height="891" alt="Screenshot 2025-08-24 153225" src="https://github.com/user-attachments/assets/cd11a5b3-bb7b-47eb-9560-26a430a14cbb" />
+
+
 
 ---
 
