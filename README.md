@@ -12,7 +12,7 @@ It helps writers and creators draft, refine, and publish blogs effortlessly with
 - 🌐 Responsive UI built with React + TailwindCSS  
 - ⚡ REST API with Node.js & Express  
 - 📦 MongoDB (or SQL) for data storage  
-- 🔒 Authentication & User Accounts  
+- 🔒 Authentication & User Accounts 
 
 ---
 
